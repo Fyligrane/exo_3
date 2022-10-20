@@ -1,6 +1,6 @@
 # Exo 3
 * répertoire /src => code de l'application à déployer
-* ex3_1.yaml => tentative avec HPA
+* exo3_1.yaml => avec HPA
 ## Avec Docker
 #### Déploiement
 ```
